@@ -62,10 +62,6 @@ This repository contains Python scripts for:
 Each script should correctly implement the described functionality without logical or performance issues.
 ```
 
-## 🎯 Future Enhancements
-- Extend support for more programming languages.
-- Add additional AI agents for in-depth security analysis.
-- Implement GitHub Actions for automated validation on every commit.
 
 
 
