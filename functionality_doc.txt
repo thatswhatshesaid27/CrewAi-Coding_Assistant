@@ -1,0 +1,4 @@
+repository contains 3 python files:
+1. frequency.py: It provides the output of no of occurences of numbers in list
+2. max.py: It provides maximum number from the list
+3. prime.py: It identifies whether provided no is prime or not
