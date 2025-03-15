@@ -39,7 +39,8 @@ Also, define the expected functionality of your repository in `functionality_doc
 3. Create a `.env` file and add your OpenAI API key and GitHub repository name.
 4. Run the script:
    ```sh
-   python crewAi_Implementation.py
+   python new_crewAi_implementation.py
+
    ```
 5. The validation results will be available in:
    - `crewAi_output.txt`
